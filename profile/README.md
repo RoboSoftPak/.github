@@ -67,11 +67,6 @@ For company information, partnerships, or general inquiries:
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-`<sub>`{=html}© Robosoft Technologies. All rights
-reserved.`</sub>`{=html}
-```{=html}
-</p>
-```
+---
+
+© Robosoft Technologies. All rights reserved.
